@@ -6,6 +6,4 @@ Complete original and imputed datasets for multiple monitoring stations.
 
 Python notebooks implementing the imputation methods.
 
-Visual and statistical comparisons between observed and imputed values (MAE, RMSE, TOST tests).
-
 All code and data are openly available for reproducibility and further research.
